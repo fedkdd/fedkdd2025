@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FedKDD 2024</title>
+    <link>https://fedkdd.github.io/</link>
+    <description>Recent content on FedKDD 2024</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fedkdd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>https://fedkdd.github.io/terms-and-conditions/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/terms-and-conditions/</guid>
+      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website.</description>
+    </item>
+    
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://fedkdd.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/papers/</guid>
+      <description>Awards and Oral  🏆 Best Industry Paper Award: TBD 🏆 Best Student Paper Award: TBD.  Poster    </description>
+    </item>
+    
+    <item>
+      <title>Call for Submissions</title>
+      <link>https://fedkdd.github.io/calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/calls/</guid>
+      <description>Workshop Scope The workshop will delve into both foundational and advanced issues in FL, incorporating a focus on graph analytics within the following four categories. Different from the previous workshops, FedGraph at ICDM 2023 or Federated Learning for Distributed Data Mining at KDD 2023, the workshop will bring in new challenges accompanied by the emergence of large models, generative AI, and new interdisciplinary applications in science. (1) Scaling laws of FL facing increasingly larger and more heterogenous data, models, and computation-or-communication resources.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fedkdd.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynotes</title>
+      <link>https://fedkdd.github.io/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://fedkdd.github.io/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/organizers/</guid>
+      <description>Workshop Committees  Junyuan Hong, Michigan State University  </description>
+    </item>
+    
+  </channel>
+</rss>
