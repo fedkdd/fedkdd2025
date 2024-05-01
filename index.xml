@@ -29,7 +29,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/calls/</guid>
-      <description>Workshop Scope The workshop will delve into both foundational and advanced issues in FL, incorporating a focus on graph analytics within the following four categories. Different from the previous workshops, FedGraph at ICDM 2023 or Federated Learning for Distributed Data Mining at KDD 2023, the workshop will bring in new challenges accompanied by the emergence of large models, generative AI, and new interdisciplinary applications in science. (1) Scaling laws of FL facing increasingly larger and more heterogenous data, models, and computation-or-communication resources.</description>
+      <description>Workshop Scope The workshop will delve into both foundational and advanced issues in FL, incorporating a focus on graph analytics within the following four categories. Different from the previous workshops, FedGraph at ICDM 2023 or Federated Learning for Distributed Data Mining at KDD 2023, the workshop will bring in new challenges accompanied by the emergence of large models, generative AI, and new interdisciplinary applications in science.
+(1) Scalability of FL facing increasingly larger and more heterogenous data, models, and computation-or-communication resources.</description>
     </item>
     
     <item>
