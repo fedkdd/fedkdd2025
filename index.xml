@@ -60,5 +60,14 @@
       <description>Workshop Committees  Junyuan Hong, Michigan State University  </description>
     </item>
     
+    <item>
+      <title>Schedules</title>
+      <link>https://fedkdd.github.io/schedules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fedkdd.github.io/schedules/</guid>
+      <description>Workshop Schedule (Pacific Timezone, Room 102B)  Time Event Title Event --   2:00 pm - 2:10 pm  Opening Ceremony    2:10 pm - 2:50 am  Keynote Talk 1:  TBD   2:50 pm - 3:30 pm  Keynote Talk 2:     3:30 pm - 3:45 pm  Oral Presentation 1 TBA   3:45 pm - 4:00 pm  Oral Presentation 2 TBA   4:00 pm - 4:10 pm  Coffee Break    4:10 pm - 4:40 pm  Poster Presentation    4:40 am - 5:20 am  Keynote Talk 3:     5:20 am - 5:50 pm  Panel Discussion     5:50 pm - 6:00 pm  Award Ceremony and Clossing Session     </description>
+    </item>
+    
   </channel>
 </rss>
