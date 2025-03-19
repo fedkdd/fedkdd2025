@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FedKDD 2025</title><link>https://fedkdd.github.io/fedkdd2025/</link><description>Recent content on FedKDD 2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fedkdd.github.io/fedkdd2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Terms &amp; Conditions</title><link>https://fedkdd.github.io/fedkdd2025/terms-and-conditions/</link><pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/terms-and-conditions/</guid><description>&lt;h3 id="1-definitions">1. Definitions&lt;/h3>
+&lt;p>We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term &amp;ldquo;personal data&amp;rdquo; does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.&lt;/p></description></item><item><title>Accepted Papers</title><link>https://fedkdd.github.io/fedkdd2025/papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/papers/</guid><description>&lt;!-- ## Oral
+
+1. [Subgraph Federated Learning for Local Generalization.](https://openreview.net/pdf?id=dCrqPTrF7y) Sungwon Kim, Yoonho Lee, Carl Yang, Yunhak Oh, Namkyeong Lee, Sukwon Yun, Junseok Lee, Sein Kim, Chanyoung Park -->
+&lt;!-- 2. 🏆 **Best Paper Award**: -->
+&lt;!-- ## Poster
+
+2. [Cooperative Multiple Model Training for Personalized Federated Learning over Heterogeneous Devices](https://openreview.net/pdf?id=1CXLB694W8). Jian Xu, Shuo Wan, Yinchuan Li, Zhilin Chen, yunfeng shao, Zhitang Chen, Shao-Lun Huang
+3. [Towards Federated Learning with on-device Training and Communication in 8-bit Floating Point](https://openreview.net/pdf?id=YfGoRu5gR6). Bokun Wang, Axel Berg, Durmus Alp Emre Acar, Chuteng Zhou
+4. [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://openreview.net/pdf?id=FOi26eD2lQ). Seongyoon Kim, Minchan Jeong, Sungnyun Kim, Sungwoo Cho, Sumyeong Ahn, Se-Young Yun
+5. [FlatLand: Personalized Federated Learning via Tailored Lorentz Space](https://openreview.net/pdf?id=vVikOgFrpW). Jiahong Liu, Xinyu Fu, Menglin Yang, Weixi Zhang, Rex Ying, Irwin King
+6. [FedLDCS: Adaptive Divergence-Based Client Selection for Federated Learning](https://openreview.net/pdf?id=pNZ0fQ5tDV). Shiyue Hou, Zhenglun Kong
+7. [An Overlapping Coalition Game for Individual Utility Maximization in Federated Learning](https://openreview.net/pdf?id=pL6ducu0wL). Yan Gong, Bing Luo, Chuang Hu, Dazhao Cheng --></description></item><item><title>Call for Submissions</title><link>https://fedkdd.github.io/fedkdd2025/calls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/calls/</guid><description>&lt;h2 id="workshop-scope">Workshop Scope&lt;/h2>
+&lt;p>The workshop will address both foundational and cutting-edge challenges in FL, integrating graph analytics with emerging trends like LLMs and generative AI. Unlike prior workshops (e.g., FedGraph@ICDM 2023 or FedKDD@KDD 2024), which centered on graph-structured data, this year&amp;rsquo;s focus expands to interdisciplinary synergies—from privacy-preserving LLM fine-tuning and multi-agent collaborative systems (e.g., autonomous vehicles) to FL-driven scientific workflows in climate modeling or biomedical research. We encourage submissions covering novel application domains, such as decentralized content generation and AI art platforms, while addressing systemic challenges like data heterogeneity, trust gaps, and scalability constraints.&lt;/p></description></item><item><title>Contact</title><link>https://fedkdd.github.io/fedkdd2025/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/contact/</guid><description/></item><item><title>Keynotes</title><link>https://fedkdd.github.io/fedkdd2025/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/speakers/</guid><description/></item><item><title>Organizers</title><link>https://fedkdd.github.io/fedkdd2025/organizers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/organizers/</guid><description>&lt;h2 id="workshop-committees">Workshop Committees&lt;/h2>
+&lt;ul>
+&lt;li>Junyuan Hong, Michigan State University&lt;/li>
+&lt;/ul></description></item><item><title>Panelist</title><link>https://fedkdd.github.io/fedkdd2025/panel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/panel/</guid><description/></item><item><title>Schedules</title><link>https://fedkdd.github.io/fedkdd2025/schedules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/schedules/</guid><description>&lt;div class="row justify-content-center">
+&lt;h3>Workshop Schedule (TBD)&lt;/h3>
+&lt;table class="table table-striped">
+ &lt;tr> &lt;!-- row 1 -->
+ &lt;td>&lt;h3>Time&lt;/h3>&lt;/td>
+ &lt;td>&lt;h3>Event&lt;/h3>&lt;/td>
+ &lt;td>&lt;h3>Details&lt;/h3>&lt;/td>
+ &lt;!-- &lt;td>&lt;a href="https://github.com" target="_blank">Event&lt;/a>&lt;/td> -->
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 2 -->
+ &lt;td>1:00 pm - 1:10 pm &lt;/td>
+ &lt;td>Opening Ceremony&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>1:10 pm - 1:50 pm &lt;/td>
+ &lt;td>Keynote Talk 1&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>1:50 pm - 2:30 pm &lt;/td>
+ &lt;td>Keynote Talk 2&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>2:30 pm - 2:40 pm &lt;/td>
+ &lt;td>Oral Presentation&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>2:40 pm - 2:50 pm &lt;/td>
+ &lt;td>Coffee Break&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>2:50 pm - 3:20 pm &lt;/td>
+ &lt;td>Poster Presentation&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 4 -->
+ &lt;td>3:20 pm - 4:00 pm &lt;/td>
+ &lt;td>Keynote Talk 3&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 4 -->
+ &lt;td>4:00 pm - 4:40 pm &lt;/td>
+ &lt;td>Keynote Talk 4&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>4:40 pm - 4:50 pm &lt;/td>
+ &lt;td>Panel Discussion&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr> &lt;!-- row 3 -->
+ &lt;td>4:50 pm - 5:00 pm &lt;/td>
+ &lt;td>Award Ceremony and Closing Session&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+&lt;/table>
+&lt;/div></description></item></channel></rss>
